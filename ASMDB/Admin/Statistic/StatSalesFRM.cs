@@ -13,6 +13,7 @@ namespace ASMDB.Admin.Statistic
 {
     public partial class StatSalesFRM : Form
     {
+        private double TotalSum;
         public StatSalesFRM()
         {
             InitializeComponent();
@@ -25,12 +26,17 @@ namespace ASMDB.Admin.Statistic
 
         private void LoadGridView()
         {
+            // Reset TotalSum
+            TotalSum = 0.0;
+            // Clear existing rows
+            dgvStat.Rows.Clear();
+            // Get the selected search type and date range
             string sortBy = cbSearchType.SelectedItem?.ToString() ?? "TotalPrice";
             DateTime? startDate = customStartDate;
             DateTime? endDate = customEndDate;
-            // Optionally, parse cbSearchPast for date range if not using custom
+            
             var table = dalStatistics.GetProductSalesStatistics(startDate, endDate, sortBy, ascending);
-            dgvStat.Rows.Clear();
+            
             foreach (DataRow row in table.Rows)
             {
                 dgvStat.Rows.Add(
@@ -38,10 +44,15 @@ namespace ASMDB.Admin.Statistic
                     row["Product_Name"],
                     row["Price"],
                     row["TotalSell"],
-                    row.Table.Columns.Contains("TotalSell") ? row["TotalSell"] : null,
                     row["TotalPrice"]
                 );
+                
+                // Update running total
+                TotalSum += Convert.ToDouble(row["TotalPrice"]);
             }
+
+            // Update lblTotalSum
+            lblTotalSum.Text = TotalSum > 0 ? $"${TotalSum:N2}" : "$0.00";
         }
 
         private void ReloadStatistics()

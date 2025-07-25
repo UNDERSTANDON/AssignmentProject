@@ -41,6 +41,8 @@
             this.TotalPrice = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.BtnRefresh = new System.Windows.Forms.Button();
             this.BtnChooseDate = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.lblTotalSum = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvStat)).BeginInit();
             this.SuspendLayout();
             // 
@@ -168,11 +170,33 @@
             this.BtnChooseDate.UseVisualStyleBackColor = true;
             this.BtnChooseDate.Click += new System.EventHandler(this.BtnChooseDate_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18.25F);
+            this.label1.Location = new System.Drawing.Point(674, 362);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(76, 29);
+            this.label1.TabIndex = 24;
+            this.label1.Text = "Total:";
+            // 
+            // lblTotalSum
+            // 
+            this.lblTotalSum.AutoSize = true;
+            this.lblTotalSum.Font = new System.Drawing.Font("Microsoft Sans Serif", 18.25F);
+            this.lblTotalSum.Location = new System.Drawing.Point(674, 405);
+            this.lblTotalSum.Name = "lblTotalSum";
+            this.lblTotalSum.Size = new System.Drawing.Size(84, 29);
+            this.lblTotalSum.TabIndex = 25;
+            this.lblTotalSum.Text = "Prices";
+            // 
             // StatSalesFRM
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(680, 450);
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lblTotalSum);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.BtnChooseDate);
             this.Controls.Add(this.BtnRefresh);
             this.Controls.Add(this.btnBack);
@@ -204,5 +228,7 @@
         private System.Windows.Forms.Button BtnRefresh;
         private System.Windows.Forms.ComboBox cbSearchType;
         private System.Windows.Forms.Button BtnChooseDate;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblTotalSum;
     }
 }
