@@ -1,0 +1,655 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\connection\\dal_backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\connection\\dal_backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|c:\\users\\aheng\\documents\\coding\\assignmentproject\\asmdb\\connection\\dal_statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\connection\\dal_statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\statistic\\emplstatfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\statistic\\emplstatfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\statistic\\emplstatfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\statistic\\emplstatfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\adminfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\adminfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\adminfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\adminfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\login\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\login\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\login\\password_resetfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\login\\password_resetfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\login\\password_resetfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\login\\password_resetfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\login\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\login\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\login\\registerfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\login\\registerfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\login\\registerfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\login\\registerfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\connection\\dal_customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\connection\\dal_customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\connection\\dal_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\connection\\dal_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\statistic\\statsalesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\statistic\\statsalesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\statistic\\statsalesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\statistic\\statsalesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\customerdetailsdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\customerdetailsdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\profile_icons\\profile_employeefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\profile_icons\\profile_employeefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\profile_icons\\profile_employeefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\profile_icons\\profile_employeefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\profile_icons\\profile_customerfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\profile_icons\\profile_customerfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\profile_icons\\profile_customerfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\profile_icons\\profile_customerfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\order\\orderfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\order\\orderfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\order\\orderfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\order\\orderfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\order\\pastorderdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\order\\pastorderdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\order\\pastorderdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\order\\pastorderdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\order\\orderacceptingdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\order\\orderacceptingdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\order\\shippinginfodialog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\order\\shippinginfodialog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\order\\shippinginfodialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\order\\shippinginfodialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\order\\shippinginfodialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\order\\shippinginfodialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\order\\shippingfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\order\\shippingfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\employee\\salesmanfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\employee\\salesmanfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\customer\\userfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\customer\\userfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\warehouse\\warehousefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\warehouse\\warehousefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\customer\\itemdetaildialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\customer\\itemdetaildialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\customer\\userfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\customer\\userfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\customer\\userfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\customer\\userfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 342,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmplStatFRM.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\Statistic\\EmplStatFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Admin\\Statistic\\EmplStatFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\Statistic\\EmplStatFRM.cs",
+              "RelativeToolTip": "ASMDB\\Admin\\Statistic\\EmplStatFRM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:26:28.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Password_ResetFRM.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\Password_ResetFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Login\\Password_ResetFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\Password_ResetFRM.cs",
+              "RelativeToolTip": "ASMDB\\Login\\Password_ResetFRM.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:49:15.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterFRM.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\RegisterFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Login\\RegisterFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\RegisterFRM.cs",
+              "RelativeToolTip": "ASMDB\\Login\\RegisterFRM.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:47:16.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Admin\\CustomerManager.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\CustomerManager.cs",
+              "RelativeToolTip": "ASMDB\\Admin\\CustomerManager.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:58:09.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DAL_CustomerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Connection\\DAL_CustomerProfile.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Connection\\DAL_CustomerProfile.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Connection\\DAL_CustomerProfile.cs",
+              "RelativeToolTip": "ASMDB\\Connection\\DAL_CustomerProfile.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:53:39.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAL_Backup.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Connection\\DAL_Backup.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Connection\\DAL_Backup.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Connection\\DAL_Backup.cs",
+              "RelativeToolTip": "ASMDB\\Connection\\DAL_Backup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:53:37.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmplStatFRM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\Statistic\\EmplStatFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Admin\\Statistic\\EmplStatFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\Statistic\\EmplStatFRM.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Admin\\Statistic\\EmplStatFRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T02:42:58.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminFRM.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\AdminFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Admin\\AdminFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\AdminFRM.cs",
+              "RelativeToolTip": "ASMDB\\Admin\\AdminFRM.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAvwF4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:12:38.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAL_Statistics.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Connection\\DAL_Statistics.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Connection\\DAL_Statistics.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Connection\\DAL_Statistics.cs",
+              "RelativeToolTip": "ASMDB\\Connection\\DAL_Statistics.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwKQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:07:53.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StatSalesFRM.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\Statistic\\StatSalesFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Admin\\Statistic\\StatSalesFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\Statistic\\StatSalesFRM.cs",
+              "RelativeToolTip": "ASMDB\\Admin\\Statistic\\StatSalesFRM.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowFIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:47:05.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StatSalesFRM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\Statistic\\StatSalesFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Admin\\Statistic\\StatSalesFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\Statistic\\StatSalesFRM.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Admin\\Statistic\\StatSalesFRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:40:18.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminFRM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\AdminFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Admin\\AdminFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\AdminFRM.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Admin\\AdminFRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:33:42.423Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Profile_EmployeeFRM.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Profile_Icons\\Profile_EmployeeFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Profile_Icons\\Profile_EmployeeFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Profile_Icons\\Profile_EmployeeFRM.cs",
+              "RelativeToolTip": "ASMDB\\Profile_Icons\\Profile_EmployeeFRM.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAqwJUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:30:45.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Profile_CustomerFRM.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Profile_Icons\\Profile_CustomerFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Profile_Icons\\Profile_CustomerFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Profile_Icons\\Profile_CustomerFRM.cs",
+              "RelativeToolTip": "ASMDB\\Profile_Icons\\Profile_CustomerFRM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:29:54.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Profile_EmployeeFRM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Profile_Icons\\Profile_EmployeeFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Profile_Icons\\Profile_EmployeeFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Profile_Icons\\Profile_EmployeeFRM.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Profile_Icons\\Profile_EmployeeFRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:22:32.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Profile_CustomerFRM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Profile_Icons\\Profile_CustomerFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Profile_Icons\\Profile_CustomerFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Profile_Icons\\Profile_CustomerFRM.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Profile_Icons\\Profile_CustomerFRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:21:40.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginFRM.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\LoginFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Login\\LoginFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\LoginFRM.cs",
+              "RelativeToolTip": "ASMDB\\Login\\LoginFRM.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAawEkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:45:59.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderFRM.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\OrderFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Order\\OrderFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\OrderFRM.cs",
+              "RelativeToolTip": "ASMDB\\Order\\OrderFRM.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:43:01.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderFRM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\OrderFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Order\\OrderFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\OrderFRM.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Order\\OrderFRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:42:43.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PastOrderDialog.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\PastOrderDialog.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Order\\PastOrderDialog.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\PastOrderDialog.cs",
+              "RelativeToolTip": "ASMDB\\Order\\PastOrderDialog.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAawCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:27:24.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PastOrderDialog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\PastOrderDialog.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Order\\PastOrderDialog.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\PastOrderDialog.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Order\\PastOrderDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:27:17.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderAcceptingDialog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\OrderAcceptingDialog.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Order\\OrderAcceptingDialog.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\OrderAcceptingDialog.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Order\\OrderAcceptingDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T05:38:47.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ShippingInfoDialog.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\ShippingInfoDialog.Designer.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Order\\ShippingInfoDialog.Designer.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\ShippingInfoDialog.Designer.cs",
+              "RelativeToolTip": "ASMDB\\Order\\ShippingInfoDialog.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T09:50:10.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ShippingFRM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\ShippingFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Order\\ShippingFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\ShippingFRM.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Order\\ShippingFRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T09:27:50.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShippingInfoDialog.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\ShippingInfoDialog.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Order\\ShippingInfoDialog.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\ShippingInfoDialog.cs",
+              "RelativeToolTip": "ASMDB\\Order\\ShippingInfoDialog.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAewC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T09:27:26.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ShippingInfoDialog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\ShippingInfoDialog.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Order\\ShippingInfoDialog.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Order\\ShippingInfoDialog.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Order\\ShippingInfoDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T09:27:16.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DAL_Customers.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Connection\\DAL_Customers.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Connection\\DAL_Customers.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Connection\\DAL_Customers.cs",
+              "RelativeToolTip": "ASMDB\\Connection\\DAL_Customers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T02:33:50.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginFRM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\LoginFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Login\\LoginFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\LoginFRM.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Login\\LoginFRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:33:14.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WarehouseFRM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Warehouse\\WarehouseFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Warehouse\\WarehouseFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Warehouse\\WarehouseFRM.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Warehouse\\WarehouseFRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:29:12.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SalesmanFRM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Employee\\SalesmanFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Employee\\SalesmanFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Employee\\SalesmanFRM.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Employee\\SalesmanFRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:27:32.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EmployeeManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Admin\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\EmployeeManager.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Admin\\EmployeeManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:27:20.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Admin\\CustomerManager.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\CustomerManager.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Admin\\CustomerManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:27:04.575Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerDetailsDialog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\CustomerDetailsDialog.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Admin\\CustomerDetailsDialog.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\CustomerDetailsDialog.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Admin\\CustomerDetailsDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:27:02.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserFRM.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Customer\\UserFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Customer\\UserFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Customer\\UserFRM.cs",
+              "RelativeToolTip": "ASMDB\\Customer\\UserFRM.cs",
+              "ViewState": "AgIAAFYBAAAAAAAAAAD4v20BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:26:12.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserFRM.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Customer\\UserFRM.Designer.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Customer\\UserFRM.Designer.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Customer\\UserFRM.Designer.cs",
+              "RelativeToolTip": "ASMDB\\Customer\\UserFRM.Designer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:20:02.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserFRM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Customer\\UserFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Customer\\UserFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Customer\\UserFRM.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Customer\\UserFRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:46:51.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ItemDetailDialog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Customer\\ItemDetailDialog.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Customer\\ItemDetailDialog.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Customer\\ItemDetailDialog.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Customer\\ItemDetailDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:46:49.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Password_ResetFRM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\Password_ResetFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Login\\Password_ResetFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\Password_ResetFRM.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Login\\Password_ResetFRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:40:46.574Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterFRM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\RegisterFRM.cs",
+              "RelativeDocumentMoniker": "ASMDB\\Login\\RegisterFRM.cs",
+              "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\RegisterFRM.cs [Design]",
+              "RelativeToolTip": "ASMDB\\Login\\RegisterFRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:33:36.255Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 58,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

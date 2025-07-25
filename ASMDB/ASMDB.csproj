@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A4887D02-20A9-4733-9B26-29505421E223}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ASMDB</RootNamespace>
+    <AssemblyName>ASMDB</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.9.0\lib\net462\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\AdminFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminFRM.Designer.cs">
+      <DependentUpon>AdminFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\CustomerDetailsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\CustomerDetailsDialog.Designer.cs">
+      <DependentUpon>CustomerDetailsDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\CustomerManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\CustomerManager.Designer.cs">
+      <DependentUpon>CustomerManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\EmployeeDetailsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\EmployeeDetailsDialog.Designer.cs">
+      <DependentUpon>EmployeeDetailsDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\EmployeeManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\EmployeeManager.Designer.cs">
+      <DependentUpon>EmployeeManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Statistic\EmplStatFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Statistic\EmplStatFRM.Designer.cs">
+      <DependentUpon>EmplStatFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Statistic\StatSalesFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Statistic\StatSalesFRM.Designer.cs">
+      <DependentUpon>StatSalesFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UsernamePasswordDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\UsernamePasswordDialog.Designer.cs">
+      <DependentUpon>UsernamePasswordDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connection\DAL_Backup.cs" />
+    <Compile Include="Connection\DAL_CustomerProfile.cs" />
+    <Compile Include="Connection\DAL_Customers.cs" />
+    <Compile Include="Connection\DAL_EmployeeProfile.cs" />
+    <Compile Include="Connection\DAL_Orders.cs" />
+    <Compile Include="Connection\DAL_Products.cs" />
+    <Compile Include="Connection\DAL_Salesman.cs" />
+    <Compile Include="Connection\DAL_Shipping.cs" />
+    <Compile Include="Connection\DAL_Statistics.cs" />
+    <Compile Include="Connection\DAL_Warehouse.cs" />
+    <Compile Include="Connection\DAL_Employees.cs" />
+    <Compile Include="Connection\DAL_Login.cs" />
+    <Compile Include="Customer\ItemDetailDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\ItemDetailDialog.Designer.cs">
+      <DependentUpon>ItemDetailDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\UserFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\UserFRM.Designer.cs">
+      <DependentUpon>UserFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee\SalesmanFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee\SalesmanFRM.Designer.cs">
+      <DependentUpon>SalesmanFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee\SalesmanUpdateDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee\SalesmanUpdateDialog.Designer.cs">
+      <DependentUpon>SalesmanUpdateDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\LoginFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\LoginFRM.Designer.cs">
+      <DependentUpon>LoginFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\Password_ResetFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\Password_ResetFRM.Designer.cs">
+      <DependentUpon>Password_ResetFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\RegisterFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\RegisterFRM.Designer.cs">
+      <DependentUpon>RegisterFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Category.cs" />
+    <Compile Include="Models\Customers.cs" />
+    <Compile Include="Models\Employees.cs" />
+    <Compile Include="Models\EmployeeStatistics.cs" />
+    <Compile Include="Models\Orders.cs" />
+    <Compile Include="Models\OrderProducts.cs" />
+    <Compile Include="Models\PastOrderView.cs" />
+    <Compile Include="Models\Products.cs" />
+    <Compile Include="Models\ProductImage.cs" />
+    <Compile Include="Models\ProductsImage.cs" />
+    <Compile Include="Models\Roles.cs" />
+    <Compile Include="Models\Shipping.cs" />
+    <Compile Include="Models\UserAccounts.cs" />
+    <Compile Include="obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="Order\OrderAcceptingDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\OrderAcceptingDialog.Designer.cs">
+      <DependentUpon>OrderAcceptingDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order\OrderFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\OrderFRM.Designer.cs">
+      <DependentUpon>OrderFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order\PastOrderDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\PastOrderDialog.Designer.cs">
+      <DependentUpon>PastOrderDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ShippingFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\ShippingFRM.Designer.cs">
+      <DependentUpon>ShippingFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ShippingInfoDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\ShippingInfoDialog.Designer.cs">
+      <DependentUpon>ShippingInfoDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profile_Icons\Profile_CustomerFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profile_Icons\Profile_CustomerFRM.Designer.cs">
+      <DependentUpon>Profile_CustomerFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profile_Icons\Profile_EmployeeFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profile_Icons\Profile_EmployeeFRM.Designer.cs">
+      <DependentUpon>Profile_EmployeeFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Warehouse\ProductDetailsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Warehouse\ProductDetailsDialog.Designer.cs">
+      <DependentUpon>ProductDetailsDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Warehouse\WarehouseFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Warehouse\WarehouseFRM.Designer.cs">
+      <DependentUpon>WarehouseFRM.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin\AdminFRM.resx">
+      <DependentUpon>AdminFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\CustomerDetailsDialog.resx">
+      <DependentUpon>CustomerDetailsDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\CustomerManager.resx">
+      <DependentUpon>CustomerManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\EmployeeDetailsDialog.resx">
+      <DependentUpon>EmployeeDetailsDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\EmployeeManager.resx">
+      <DependentUpon>EmployeeManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Statistic\EmplStatFRM.resx">
+      <DependentUpon>EmplStatFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Statistic\StatSalesFRM.resx">
+      <DependentUpon>StatSalesFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\ItemDetailDialog.resx">
+      <DependentUpon>ItemDetailDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\UserFRM.resx">
+      <DependentUpon>UserFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee\SalesmanFRM.resx">
+      <DependentUpon>SalesmanFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee\SalesmanUpdateDialog.resx">
+      <DependentUpon>SalesmanUpdateDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\LoginFRM.resx">
+      <DependentUpon>LoginFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\RegisterFRM.resx">
+      <DependentUpon>RegisterFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\ASMDB.Admin.AdminFRM.resources" />
+    <EmbeddedResource Include="obj\Debug\ASMDB.Admin.CustomerManager.resources" />
+    <EmbeddedResource Include="obj\Debug\ASMDB.Admin.EmployeeManager.resources" />
+    <EmbeddedResource Include="obj\Debug\ASMDB.Customer.UserFRM.resources" />
+    <EmbeddedResource Include="obj\Debug\ASMDB.Employee.SalesmanFRM.resources" />
+    <EmbeddedResource Include="obj\Debug\ASMDB.Login.LoginFRM.resources" />
+    <EmbeddedResource Include="obj\Debug\ASMDB.Login.RegisterFRM.resources" />
+    <EmbeddedResource Include="obj\Debug\ASMDB.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Debug\ASMDB.Warehouse.WarehouseFRM.resources" />
+    <EmbeddedResource Include="Order\OrderAcceptingDialog.resx">
+      <DependentUpon>OrderAcceptingDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\OrderFRM.resx">
+      <DependentUpon>OrderFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ShippingFRM.resx">
+      <DependentUpon>ShippingFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ShippingInfoDialog.resx">
+      <DependentUpon>ShippingInfoDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profile_Icons\Profile_CustomerFRM.resx">
+      <DependentUpon>Profile_CustomerFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profile_Icons\Profile_EmployeeFRM.resx">
+      <DependentUpon>Profile_EmployeeFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Warehouse\WarehouseFRM.resx">
+      <DependentUpon>WarehouseFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bin\Debug\ASMDB.exe.config" />
+    <None Include="obj\Debug\ASMDB.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\ASMDB.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\ASMDB.csproj.GenerateResource.cache" />
+    <None Include="obj\Debug\ASMDB.csproj.Up2Date" />
+    <None Include="obj\Debug\ASMDB.exe.config" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+    <Folder Include="obj\Debug\TempPE\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\ASMDB.exe" />
+    <Content Include="bin\Debug\ASMDB.pdb" />
+    <Content Include="obj\Debug\ASMDB.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\ASMDB.exe" />
+    <Content Include="obj\Debug\ASMDB.pdb" />
+    <None Include="Resource\Password.png" />
+    <Content Include="Resource\PendingOrder.png" />
+    <Content Include="Resource\ShippingIcon.png" />
+    <Content Include="Resource\ShoppingCart.png" />
+    <Content Include="Resource\UserProfile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
