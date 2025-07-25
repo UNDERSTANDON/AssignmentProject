@@ -64,11 +64,6 @@ namespace ASMDB.Login
             this.Hide();
         }
 
-        private bool IsInvalidAccount(userAccounts user)
-        {
-            return user == null || (user.Employee_ID == null && user.Cus_ID == null) || (user.Employee_ID.HasValue && user.Cus_ID.HasValue);
-        }
-
         /// <summary>
         /// Handles the login button click event and routes to the correct dashboard.
         /// </summary>
@@ -81,7 +76,7 @@ namespace ASMDB.Login
             DAL_Login dal = new DAL_Login();
             UserAccounts user = dal.GetUserAccount(username, passwordHash);
 
-            if (IsInvalidAccount(user))
+            if (user == null)
             {
                 MessageBox.Show("Invalid username or password.", "Login Failed", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 Console.Beep(37, 1);

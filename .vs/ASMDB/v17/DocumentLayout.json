@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\statistic\\statsalesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\statistic\\statsalesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|c:\\users\\aheng\\documents\\coding\\assignmentproject\\asmdb\\admin\\statistic\\statsalesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\statistic\\statsalesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\statistic\\emplstatfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\statistic\\emplstatfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\login\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\login\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\login\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\login\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\connection\\dal_backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\connection\\dal_backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|c:\\users\\aheng\\documents\\coding\\assignmentproject\\asmdb\\connection\\dal_statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\connection\\dal_statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\connection\\dal_statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\statistic\\emplstatfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\statistic\\emplstatfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\statistic\\emplstatfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\statistic\\emplstatfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\adminfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,20 +43,12 @@
       "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\adminfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\login\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\login\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\login\\password_resetfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\login\\password_resetfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\login\\password_resetfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\login\\password_resetfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\login\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\login\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\login\\registerfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -65,14 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\connection\\dal_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\connection\\dal_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\statistic\\statsalesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\statistic\\statsalesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\statistic\\statsalesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|solutionrelative:asmdb\\admin\\statistic\\statsalesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4887D02-20A9-4733-9B26-29505421E223}|ASMDB\\ASMDB.csproj|C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\asmdb\\admin\\customerdetailsdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -166,7 +166,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 342,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -174,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "EmplStatFRM.cs",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\Statistic\\EmplStatFRM.cs",
               "RelativeDocumentMoniker": "ASMDB\\Admin\\Statistic\\EmplStatFRM.cs",
@@ -187,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Password_ResetFRM.cs",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\Password_ResetFRM.cs",
               "RelativeDocumentMoniker": "ASMDB\\Login\\Password_ResetFRM.cs",
@@ -200,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "RegisterFRM.cs",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\RegisterFRM.cs",
               "RelativeDocumentMoniker": "ASMDB\\Login\\RegisterFRM.cs",
@@ -213,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "CustomerManager.cs",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\CustomerManager.cs",
               "RelativeDocumentMoniker": "ASMDB\\Admin\\CustomerManager.cs",
@@ -226,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "DAL_CustomerProfile.cs",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Connection\\DAL_CustomerProfile.cs",
               "RelativeDocumentMoniker": "ASMDB\\Connection\\DAL_CustomerProfile.cs",
@@ -239,20 +239,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "DAL_Backup.cs",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Connection\\DAL_Backup.cs",
               "RelativeDocumentMoniker": "ASMDB\\Connection\\DAL_Backup.cs",
               "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Connection\\DAL_Backup.cs",
               "RelativeToolTip": "ASMDB\\Connection\\DAL_Backup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T06:53:37.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "EmplStatFRM.cs [Design]",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\Statistic\\EmplStatFRM.cs",
               "RelativeDocumentMoniker": "ASMDB\\Admin\\Statistic\\EmplStatFRM.cs",
@@ -264,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "AdminFRM.cs",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\AdminFRM.cs",
               "RelativeDocumentMoniker": "ASMDB\\Admin\\AdminFRM.cs",
@@ -277,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "DAL_Statistics.cs",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Connection\\DAL_Statistics.cs",
               "RelativeDocumentMoniker": "ASMDB\\Connection\\DAL_Statistics.cs",
@@ -290,30 +290,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "StatSalesFRM.cs",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\Statistic\\StatSalesFRM.cs",
               "RelativeDocumentMoniker": "ASMDB\\Admin\\Statistic\\StatSalesFRM.cs",
               "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\Statistic\\StatSalesFRM.cs",
               "RelativeToolTip": "ASMDB\\Admin\\Statistic\\StatSalesFRM.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAowFIAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowGkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T14:47:05.958Z"
+              "WhenOpened": "2025-07-18T14:47:05.958Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
               "Title": "StatSalesFRM.cs [Design]",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\Statistic\\StatSalesFRM.cs",
               "RelativeDocumentMoniker": "ASMDB\\Admin\\Statistic\\StatSalesFRM.cs",
               "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\Statistic\\StatSalesFRM.cs [Design]",
               "RelativeToolTip": "ASMDB\\Admin\\Statistic\\StatSalesFRM.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T14:40:18.263Z"
+              "WhenOpened": "2025-07-18T14:40:18.263Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "AdminFRM.cs [Design]",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\AdminFRM.cs",
               "RelativeDocumentMoniker": "ASMDB\\Admin\\AdminFRM.cs",
@@ -371,13 +373,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "LoginFRM.cs",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\LoginFRM.cs",
               "RelativeDocumentMoniker": "ASMDB\\Login\\LoginFRM.cs",
               "ToolTip": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\LoginFRM.cs",
               "RelativeToolTip": "ASMDB\\Login\\LoginFRM.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAawEkAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAlwE4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T08:45:59.247Z"
             },
@@ -486,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "DAL_Customers.cs",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Connection\\DAL_Customers.cs",
               "RelativeDocumentMoniker": "ASMDB\\Connection\\DAL_Customers.cs",
@@ -498,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "LoginFRM.cs [Design]",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\LoginFRM.cs",
               "RelativeDocumentMoniker": "ASMDB\\Login\\LoginFRM.cs",
@@ -542,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "CustomerManager.cs [Design]",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Admin\\CustomerManager.cs",
               "RelativeDocumentMoniker": "ASMDB\\Admin\\CustomerManager.cs",
@@ -611,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Password_ResetFRM.cs [Design]",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\Password_ResetFRM.cs",
               "RelativeDocumentMoniker": "ASMDB\\Login\\Password_ResetFRM.cs",
@@ -623,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "RegisterFRM.cs [Design]",
               "DocumentMoniker": "C:\\Users\\aheng\\Documents\\Coding\\AssignmentProject\\ASMDB\\Login\\RegisterFRM.cs",
               "RelativeDocumentMoniker": "ASMDB\\Login\\RegisterFRM.cs",

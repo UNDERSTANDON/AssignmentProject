@@ -40,6 +40,7 @@
             this.TotalSell = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.TotalPrice = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.BtnRefresh = new System.Windows.Forms.Button();
+            this.BtnChooseDate = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvStat)).BeginInit();
             this.SuspendLayout();
             // 
@@ -84,7 +85,7 @@
             // 
             this.BtnASCDESC.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
             this.BtnASCDESC.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.BtnASCDESC.Location = new System.Drawing.Point(394, 11);
+            this.BtnASCDESC.Location = new System.Drawing.Point(475, 10);
             this.BtnASCDESC.Name = "BtnASCDESC";
             this.BtnASCDESC.Size = new System.Drawing.Size(75, 27);
             this.BtnASCDESC.TabIndex = 17;
@@ -115,7 +116,7 @@
             this.TotalPrice});
             this.dgvStat.Location = new System.Drawing.Point(19, 55);
             this.dgvStat.Name = "dgvStat";
-            this.dgvStat.Size = new System.Drawing.Size(545, 383);
+            this.dgvStat.Size = new System.Drawing.Size(649, 383);
             this.dgvStat.TabIndex = 19;
             // 
             // Product_ID
@@ -147,7 +148,7 @@
             // 
             this.BtnRefresh.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
             this.BtnRefresh.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.BtnRefresh.Location = new System.Drawing.Point(475, 10);
+            this.BtnRefresh.Location = new System.Drawing.Point(556, 10);
             this.BtnRefresh.Name = "BtnRefresh";
             this.BtnRefresh.Size = new System.Drawing.Size(75, 27);
             this.BtnRefresh.TabIndex = 20;
@@ -155,11 +156,24 @@
             this.BtnRefresh.UseVisualStyleBackColor = true;
             this.BtnRefresh.Click += new System.EventHandler(this.BtnRefresh_Click);
             // 
+            // BtnChooseDate
+            // 
+            this.BtnChooseDate.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.BtnChooseDate.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.BtnChooseDate.Location = new System.Drawing.Point(394, 10);
+            this.BtnChooseDate.Name = "BtnChooseDate";
+            this.BtnChooseDate.Size = new System.Drawing.Size(75, 27);
+            this.BtnChooseDate.TabIndex = 23;
+            this.BtnChooseDate.Text = "Choose Date";
+            this.BtnChooseDate.UseVisualStyleBackColor = true;
+            this.BtnChooseDate.Click += new System.EventHandler(this.BtnChooseDate_Click);
+            // 
             // StatSalesFRM
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(582, 450);
+            this.ClientSize = new System.Drawing.Size(680, 450);
+            this.Controls.Add(this.BtnChooseDate);
             this.Controls.Add(this.BtnRefresh);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.BtnASCDESC);
@@ -189,5 +203,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn TotalPrice;
         private System.Windows.Forms.Button BtnRefresh;
         private System.Windows.Forms.ComboBox cbSearchType;
+        private System.Windows.Forms.Button BtnChooseDate;
     }
 }

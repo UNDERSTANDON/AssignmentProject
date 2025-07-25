@@ -20,13 +20,15 @@ namespace ASMDB.Admin.Statistic
 
         private DAL_Statistics dalStatistics = new DAL_Statistics();
         private bool ascending = false;
+        private DateTime? customStartDate = null;
+        private DateTime? customEndDate = null;
+
         private void LoadGridView()
         {
             string sortBy = cbSearchType.SelectedItem?.ToString() ?? "TotalPrice";
-            DateTime? startDate = null;
-            DateTime? endDate = null;
-            // Optionally, parse cbSearchPast for date range
-            // ...
+            DateTime? startDate = customStartDate;
+            DateTime? endDate = customEndDate;
+            // Optionally, parse cbSearchPast for date range if not using custom
             var table = dalStatistics.GetProductSalesStatistics(startDate, endDate, sortBy, ascending);
             dgvStat.Rows.Clear();
             foreach (DataRow row in table.Rows)
@@ -90,6 +92,19 @@ namespace ASMDB.Admin.Statistic
         private void BtnRefresh_Click(object sender, EventArgs e)
         {
             ReloadStatistics();
+        }
+
+        private void BtnChooseDate_Click(object sender, EventArgs e)
+        {
+            using (var dlg = new DateRangeDialog())
+            {
+                if (dlg.ShowDialog() == DialogResult.OK)
+                {
+                    customStartDate = dlg.StartDate;
+                    customEndDate = dlg.EndDate;
+                    ReloadStatistics();
+                }
+            }
         }
     }
 }

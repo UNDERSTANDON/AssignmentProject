@@ -95,6 +95,9 @@
     <Compile Include="Admin\EmployeeManager.Designer.cs">
       <DependentUpon>EmployeeManager.cs</DependentUpon>
     </Compile>
+    <Compile Include="Admin\Statistic\DateRangeDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Admin\Statistic\EmplStatFRM.cs">
       <SubType>Form</SubType>
     </Compile>
