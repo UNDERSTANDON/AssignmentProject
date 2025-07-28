@@ -1,13 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
+﻿using ASMDB.Connection;
+using System;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using ASMDB.Connection;
 
 namespace ASMDB.Admin.Statistic
 {
@@ -34,9 +28,9 @@ namespace ASMDB.Admin.Statistic
             string sortBy = cbSearchType.SelectedItem?.ToString() ?? "TotalPrice";
             DateTime? startDate = customStartDate;
             DateTime? endDate = customEndDate;
-            
+
             var table = dalStatistics.GetProductSalesStatistics(startDate, endDate, sortBy, ascending);
-            
+
             foreach (DataRow row in table.Rows)
             {
                 dgvStat.Rows.Add(
@@ -46,7 +40,7 @@ namespace ASMDB.Admin.Statistic
                     row["TotalSell"],
                     row["TotalPrice"]
                 );
-                
+
                 // Update running total
                 TotalSum += Convert.ToDouble(row["TotalPrice"]);
             }
